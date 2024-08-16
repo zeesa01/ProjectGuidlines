@@ -1,0 +1,33 @@
+{
+  "name": "linting.json",
+  "version": "1.0.3",
+  "description": "CLI to generate eslint, typescript config with prettier for react and nodejs",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Mohammad Zeeshan Alam",
+  "email": "<m.zeeshan.alam95@gmail.com>",
+  "keywords": [
+    "lintconfig",
+    "eslint",
+    "tsconfig",
+    "nodejs",
+    "eslint",
+    "generate typescript config",
+    "generate eslint with react",
+    "generate eslint with typescript",
+    "ts"
+  ],
+ 
+  "packageConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+
+
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "shelljs": "0.8.4"
+  }
+}

@@ -1,0 +1,18 @@
+yarn.lock
+
+# Mac files
+.DS_Store
+
+# Yarn
+yarn-error.log
+# Yarn Integrity file
+.yarn-integrity
+
+# vscode
+.vscode
+.eslintrc
+.prettierrc
+tsconfig.json
+build
+.idea
+node_modules
