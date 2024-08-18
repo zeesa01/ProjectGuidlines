@@ -4,7 +4,7 @@
 **Date:** 07/24/2024
 **By:** Mohammad Zeeshan Alam
 
-![Pair Programming](CC-logo-short.png?w=1000)
+
 
 Pair programming is an agile software development technique where two programmers work together. The goal of agile software development is to deliver software on an ongoing basis so the results can be evaluated more easily.
 
