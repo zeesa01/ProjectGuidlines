@@ -1,3 +1,5 @@
+**Date:** 07/24/2024
+**By:** Mohammad Zeeshan Alam
 # Secure Coding Practices
 
 This document outlines secure coding practices based on the OWASP Top 10, aimed at helping developers mitigate common security risks in software applications.

@@ -1,7 +1,8 @@
 When it comes to managing passwords and secrets securely in your codebase, it's crucial to follow best practices to protect sensitive information from unauthorized access. Below are some comprehensive guidelines to ensure secure password and secret management.
 
 ---
-
+**Date:** 07/24/2024
+**By:** Mohammad Zeeshan Alam
 ## Password and Secrets Management Security Guidelines
 
 ### 1. **Use Environment Variables**

@@ -1,5 +1,6 @@
 For automated testing in a stack that includes JavaScript, React.js, HTML, and Spring Boot, here are the standard tools you can use:
-
+**Date:** 07/24/2024
+**By:** Mohammad Zeeshan Alam
 ### **1. Unit and Integration Testing**
 
 - **Jest**: A widely-used testing framework for JavaScript, particularly popular with React.js. Jest is capable of running unit tests and integration tests, and it comes with a built-in test runner, assertion library, and support for mocking.

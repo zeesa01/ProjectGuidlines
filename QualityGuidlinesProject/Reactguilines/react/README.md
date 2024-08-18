@@ -1,3 +1,5 @@
+**Date:** 07/24/2024
+**By:** Mohammad Zeeshan Alam
 #  React/JSX Style Guide
 
 *A mostly reasonable approach to React and JSX*

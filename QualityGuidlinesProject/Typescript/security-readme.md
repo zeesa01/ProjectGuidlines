@@ -1,3 +1,5 @@
+**Date:** 07/24/2024
+**By:** Mohammad Zeeshan Alam
 # TypeScript Security Best Practices
 
 ## Table of Contents

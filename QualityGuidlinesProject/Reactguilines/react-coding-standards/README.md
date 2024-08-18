@@ -1,3 +1,5 @@
+**Date:** 07/24/2024
+**By:** Mohammad Zeeshan Alam
 # React Coding Standards
 
 This guide is focusing on the recent versions of react featuring [React Hooks](https://reactjs.org/docs/hooks-intro.html).

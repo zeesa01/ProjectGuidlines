@@ -1,4 +1,5 @@
-
+**Date:** 07/24/2024
+**By:** Mohammad Zeeshan Alam
 # Automating Change Log Updates in a CI/CD Pipeline
 
 Automating change log updates in a CI/CD pipeline ensures that your documentation remains up-to-date and consistent with actual code changes. Here’s how you can achieve this:
