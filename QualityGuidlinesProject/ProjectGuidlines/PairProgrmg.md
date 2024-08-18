@@ -4,17 +4,11 @@
 **Date:** 07/24/2024
 **By:** Mohammad Zeeshan Alam
 
-![Pair Programming](CC-logo-short.png?w=1000)
+
 
 Pair programming is an agile software development technique where two programmers work together. The goal of agile software development is to deliver software on an ongoing basis so the results can be evaluated more easily.
 
 But how does having two programmers working together improve software development? Read on to learn more about pair programming, how it works, and its advantages and drawbacks.
-
-## A Brief History
-
-Some of the very first programmers were the women who worked on the ENIAC (Electronic Numerical Integrator and Computer). These women worked in pairs, allowing them to discuss ideas and improve each other’s work.
-
-Pair programming as a concept didn’t develop until the late 1990s, when agile software development practices were spread to a wider audience.
 
 ## How Does Pair Programming Work?
 
@@ -60,4 +54,10 @@ While there are many advantages, pair programming also has its challenges:
 Many organizations use pair programming for improved efficiency. Even if you’re still learning to code, pair programming is a great way to enhance your skills. For example, if you’re new to Python, you might practice with another student learning Python (or someone more experienced).
 
 If you’re taking one of our classes, consider connecting with other students in our forums or on Discord. Virtual pair programming, while having its hurdles compared to in-person sessions, can still be highly beneficial.
+
+## Facts on this
+
+Some of the very first programmers were the women who worked on some technology. These women worked in pairs, allowing them to discuss ideas and improve each other’s work.
+
+Pair programming as a concept didn’t develop until the late 1990s, when agile software development practices were spread to a wider audience.
 
